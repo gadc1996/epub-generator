@@ -9,6 +9,7 @@ RUN apt-get update && \
     git \
     sudo \
     wget \
+    pandoc \
     zsh
 
 # Create user with permissions in folder /app
